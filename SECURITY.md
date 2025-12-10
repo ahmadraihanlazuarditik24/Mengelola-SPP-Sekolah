@@ -6,7 +6,7 @@ Jika Anda menemukan atau menyadari adanya kerentanan keamanan dalam proyek ini, 
 
 **Langkah-langkah untuk melaporkan kerentanan:**
 
-1. Kirimkan email ke [mrizkimaulidanx@gmail.com](mrizkimaulidanx@gmail.com) dengan subjek "Laporan Kerentanan Keamanan".
+1. Kirimkan email ke [rafdwn@gmail.com](rafdwn@gmail.com) dengan subjek "Laporan Kerentanan Keamanan".
 2. Deskripsikan kerentanan dengan jelas dan detail, sertakan langkah-langkah reproduksi jika mungkin.
 3. Tunggu konfirmasi dari tim pengembangan.
 4. Kami akan meninjau laporan Anda dan memberikan tanggapan secepatnya.
