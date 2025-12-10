@@ -170,5 +170,5 @@ Pass    : secret
 
 ## Developer
 
--   [@mughnihaunan](https://github.com/mughnihaunan)
+-   [@ahmadraihan](https://github.com/ahmadraihanlazuarditik24)
 -   Developed for SMAN 28 Jakarta - 2025
