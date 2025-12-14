@@ -10,7 +10,7 @@ Website Resmi: [https://sman28jkt.sch.id/](https://sman28jkt.sch.id/)
 
 ## Demo
 
--   🌐 **Live Demo:** [https://laravel.mhaunan.me/](https://laravel.mhaunan.me/)
+-   🌐 **Live Demo:** 
 
 ## Prasyarat
 
@@ -41,8 +41,7 @@ Jika Anda menggunakan XAMPP, PHP, dan MySQL sudah menjadi satu paket di dalam ap
 
 ## Preview
 
-Lihat demo langsung di: **[https://laravel.mhaunan.me/](https://laravel.mhaunan.me/)**
-
+Lihat demo langsung di: 
 ### Fitur Utama:
 - ✨ Modern homepage dengan hero slider
 - 🌓 Dark/Light mode toggle
@@ -59,13 +58,13 @@ Lihat demo langsung di: **[https://laravel.mhaunan.me/](https://laravel.mhaunan.
 **HTTPS:**
 
 ```bash
-$ git clone https://github.com/mughnihaunan/sekolah-kas-template-webdev.git
+https://github.com/ahmadraihanlazuarditik24/Mengelola-SPP-Sekolah
 ```
 
 **SSH:**
 
 ```bash
-$ git clone git@github.com:mughnihaunan/sekolah-kas-template-webdev.git
+https://github.com/ahmadraihanlazuarditik24/Mengelola-SPP-Sekolah
 ```
 
 2. Instal seluruh packages yang dibutuhkan.
